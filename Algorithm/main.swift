@@ -18,7 +18,6 @@ lottos = [45, 4, 35, 20, 3, 9]
 win_nums = [20, 9, 3, 45, 4, 35]
 print(highestLowestLotto(lottos, win_nums))
 
-print("//////////////////")
 lottos = [1, 2, 3, 4, 5, 6]
 win_nums = [38, 19, 20, 40, 15, 25]
 print(highestLowestLotto(lottos, win_nums))
