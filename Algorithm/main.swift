@@ -6,21 +6,15 @@
 //
 import Foundation
 
+// 로또 최저 순위와 최고 순위
 //var lottos = [44, 1, 0, 0, 31, 25]
 //var win_nums = [31, 10, 45, 1, 6, 19]
 //print(highestLowestLotto(lottos, win_nums))
-//
-//lottos = [0, 0, 0, 0, 0, 0]
-//win_nums = [38, 19, 20, 40, 15, 25]
-//print(highestLowestLotto(lottos, win_nums))
-//
-//lottos = [45, 4, 35, 20, 3, 9]
-//win_nums = [20, 9, 3, 45, 4, 35]
-//print(highestLowestLotto(lottos, win_nums))
-//
-//lottos = [1, 2, 3, 4, 5, 6]
-//win_nums = [38, 19, 20, 40, 15, 25]
-//print(highestLowestLotto(lottos, win_nums))
 
+// 크레인 인형뽑기
+//print(clawCrain([[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]], [1,5,3,5,1,2,1,4]))
 
-print(clawCrain([[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]], [1,5,3,5,1,2,1,4]))
+// K번째 수
+var array = [1, 5, 2, 6, 3, 7, 4]
+var commands = [[2, 5, 3], [4, 4, 1], [1, 7, 3]]
+print(numberKth(array, commands))
