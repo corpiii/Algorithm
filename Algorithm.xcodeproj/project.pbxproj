@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AC5332EA2849FA0C000EAF88 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5332E92849FA0C000EAF88 /* main.swift */; };
 		ACF39E56284C35430055B345 /* highestLowestLotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E55284C35430055B345 /* highestLowestLotto.swift */; };
+		ACF39E58284D4A970055B345 /* clawCrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E57284D4A970055B345 /* clawCrain.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		AC5332E62849FA0C000EAF88 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC5332E92849FA0C000EAF88 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		ACF39E55284C35430055B345 /* highestLowestLotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = highestLowestLotto.swift; sourceTree = "<group>"; };
+		ACF39E57284D4A970055B345 /* clawCrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = clawCrain.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				AC5332E92849FA0C000EAF88 /* main.swift */,
 				ACF39E55284C35430055B345 /* highestLowestLotto.swift */,
+				ACF39E57284D4A970055B345 /* clawCrain.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACF39E58284D4A970055B345 /* clawCrain.swift in Sources */,
 				ACF39E56284C35430055B345 /* highestLowestLotto.swift in Sources */,
 				AC5332EA2849FA0C000EAF88 /* main.swift in Sources */,
 			);

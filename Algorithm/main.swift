@@ -6,18 +6,21 @@
 //
 import Foundation
 
-var lottos = [44, 1, 0, 0, 31, 25]
-var win_nums = [31, 10, 45, 1, 6, 19]
-print(highestLowestLotto(lottos, win_nums))
+//var lottos = [44, 1, 0, 0, 31, 25]
+//var win_nums = [31, 10, 45, 1, 6, 19]
+//print(highestLowestLotto(lottos, win_nums))
+//
+//lottos = [0, 0, 0, 0, 0, 0]
+//win_nums = [38, 19, 20, 40, 15, 25]
+//print(highestLowestLotto(lottos, win_nums))
+//
+//lottos = [45, 4, 35, 20, 3, 9]
+//win_nums = [20, 9, 3, 45, 4, 35]
+//print(highestLowestLotto(lottos, win_nums))
+//
+//lottos = [1, 2, 3, 4, 5, 6]
+//win_nums = [38, 19, 20, 40, 15, 25]
+//print(highestLowestLotto(lottos, win_nums))
 
-lottos = [0, 0, 0, 0, 0, 0]
-win_nums = [38, 19, 20, 40, 15, 25]
-print(highestLowestLotto(lottos, win_nums))
 
-lottos = [45, 4, 35, 20, 3, 9]
-win_nums = [20, 9, 3, 45, 4, 35]
-print(highestLowestLotto(lottos, win_nums))
-
-lottos = [1, 2, 3, 4, 5, 6]
-win_nums = [38, 19, 20, 40, 15, 25]
-print(highestLowestLotto(lottos, win_nums))
+print(clawCrain([[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]], [1,5,3,5,1,2,1,4]))
