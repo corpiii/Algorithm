@@ -15,6 +15,15 @@ import Foundation
 //print(clawCrain([[0,0,0,0,0],[0,0,1,0,3],[0,2,5,0,1],[4,2,4,4,2],[3,5,1,3,1]], [1,5,3,5,1,2,1,4]))
 
 // K번째 수
-var array = [1, 5, 2, 6, 3, 7, 4]
-var commands = [[2, 5, 3], [4, 4, 1], [1, 7, 3]]
-print(numberKth(array, commands))
+//var array = [1, 5, 2, 6, 3, 7, 4]
+//var commands = [[2, 5, 3], [4, 4, 1], [1, 7, 3]]
+//print(numberKth(array, commands))
+
+// 두 정수 사이의 합
+//print(sumBetweenTwoIntegers(0, 10000000))
+//print(sumBetweenTwoIntegers(5, 3))
+//print(sumBetweenTwoIntegers(-3, 5))
+
+// 가운데 글자 가져오기
+print(getCenterText("qwer"))
+print(getCenterText("abcde"))
