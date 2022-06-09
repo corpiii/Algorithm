@@ -68,6 +68,7 @@ func clawCrain(_ board:[[Int]], _ moves:[Int]) -> Int {
             doll = board[row][line - 1]
             if doll != 0 {
                 board[row][line - 1] = 0
+                
                 break
             }
         }

@@ -13,6 +13,7 @@
 		ACF39E61284E57180055B345 /* NumberKth.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E60284E57180055B345 /* NumberKth.swift */; };
 		ACF39E63285039460055B345 /* SumBetweenTwoIntegers.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E62285039460055B345 /* SumBetweenTwoIntegers.swift */; };
 		ACF39E6528504C230055B345 /* GetCenterText.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E6428504C230055B345 /* GetCenterText.swift */; };
+		ACF39E6928522A920055B345 /* InnerProduct.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E6828522A920055B345 /* InnerProduct.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		ACF39E60284E57180055B345 /* NumberKth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberKth.swift; sourceTree = "<group>"; };
 		ACF39E62285039460055B345 /* SumBetweenTwoIntegers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SumBetweenTwoIntegers.swift; sourceTree = "<group>"; };
 		ACF39E6428504C230055B345 /* GetCenterText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetCenterText.swift; sourceTree = "<group>"; };
+		ACF39E6828522A920055B345 /* InnerProduct.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InnerProduct.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,13 +70,32 @@
 			isa = PBXGroup;
 			children = (
 				AC5332E92849FA0C000EAF88 /* main.swift */,
+				ACF39E6628522A530055B345 /* 1주차 */,
+				ACF39E6728522A600055B345 /* 2주차 */,
+			);
+			path = Algorithm;
+			sourceTree = "<group>";
+		};
+		ACF39E6628522A530055B345 /* 1주차 */ = {
+			isa = PBXGroup;
+			children = (
 				ACF39E55284C35430055B345 /* HighestLowestLotto.swift */,
 				ACF39E57284D4A970055B345 /* ClawCrain.swift */,
 				ACF39E60284E57180055B345 /* NumberKth.swift */,
 				ACF39E62285039460055B345 /* SumBetweenTwoIntegers.swift */,
 				ACF39E6428504C230055B345 /* GetCenterText.swift */,
 			);
-			path = Algorithm;
+			name = "1주차";
+			path = "1주차";
+			sourceTree = "<group>";
+		};
+		ACF39E6728522A600055B345 /* 2주차 */ = {
+			isa = PBXGroup;
+			children = (
+				ACF39E6828522A920055B345 /* InnerProduct.swift */,
+			);
+			name = "2주차";
+			path = "2주차";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACF39E6528504C230055B345 /* GetCenterText.swift in Sources */,
+				ACF39E6928522A920055B345 /* InnerProduct.swift in Sources */,
 				ACF39E58284D4A970055B345 /* ClawCrain.swift in Sources */,
 				ACF39E63285039460055B345 /* SumBetweenTwoIntegers.swift in Sources */,
 				ACF39E56284C35430055B345 /* HighestLowestLotto.swift in Sources */,

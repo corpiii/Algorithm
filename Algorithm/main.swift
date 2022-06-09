@@ -25,5 +25,6 @@ import Foundation
 //print(sumBetweenTwoIntegers(-3, 5))
 
 // 가운데 글자 가져오기
-print(getCenterText("qwer"))
-print(getCenterText("abcde"))
+//print(getCenterText("qwer"))
+//print(getCenterText("abcde"))
+

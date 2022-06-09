@@ -26,3 +26,4 @@ import Foundation
 func getCenterText(_ s:String) -> String {
     return String(s[String.Index(utf16Offset: (s.count - 1) / 2, in: s)...String.Index(utf16Offset: s.count / 2, in: s)])
 }
+
