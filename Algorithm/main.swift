@@ -28,3 +28,5 @@ import Foundation
 //print(getCenterText("qwer"))
 //print(getCenterText("abcde"))
 
+// 내적
+print(InnerProduct([1, 2, 3, 4], [-3, -1, 0, 2]))
