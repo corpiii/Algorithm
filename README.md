@@ -9,3 +9,4 @@
 - [K번째 수](https://programmers.co.kr/learn/courses/30/lessons/42748)
 - [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
+- [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
