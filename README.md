@@ -10,7 +10,3 @@
 - [두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)
 - [가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
-
-#### 그리디
-- [설탕 배달](https://www.acmicpc.net/problem/2839)
-- [보물](https://www.acmicpc.net/problem/1026)
