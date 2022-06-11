@@ -29,4 +29,8 @@ import Foundation
 //print(getCenterText("abcde"))
 
 // 내적
-print(InnerProduct([1, 2, 3, 4], [-3, -1, 0, 2]))
+//print(InnerProduct([1, 2, 3, 4], [-3, -1, 0, 2]))
+
+// 숫자 문자열과 영단어
+//print(numericStringToword("2three45sixseven"))
+
