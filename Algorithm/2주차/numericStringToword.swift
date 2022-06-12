@@ -35,10 +35,10 @@ import Foundation
 func numericStringToword(_ s:String) -> Int {
     let stringArray = Array(s).map({ String($0) })
     let pairOfNumbers = ["zero","one","two","three","four","five","six","seven","eight","nine"]
-    
+
     var result = ""
     var convertBucket = ""
-    
+
     for letter in stringArray {
         convertBucket += letter
         if Int(convertBucket) != nil {

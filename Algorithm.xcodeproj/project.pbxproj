@@ -17,7 +17,8 @@
 		ACF39E842854167E0055B345 /* treasure.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E822854167E0055B345 /* treasure.swift */; };
 		ACF39E852854167E0055B345 /* sugarDeliver.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E832854167E0055B345 /* sugarDeliver.swift */; };
 		ACF39E882854586D0055B345 /* AtoB.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E872854586D0055B345 /* AtoB.swift */; };
-		ACF39E8A28546A8A0055B345 /* numericStringToword.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E8928546A8A0055B345 /* numericStringToword.swift */; };
+		ACF39E8A28546A8A0055B345 /* numericStringToWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E8928546A8A0055B345 /* numericStringToWord.swift */; };
+		ACF39E8E285568020055B345 /* mockExam.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E8D285568020055B345 /* mockExam.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -44,7 +45,8 @@
 		ACF39E822854167E0055B345 /* treasure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = treasure.swift; sourceTree = "<group>"; };
 		ACF39E832854167E0055B345 /* sugarDeliver.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = sugarDeliver.swift; sourceTree = "<group>"; };
 		ACF39E872854586D0055B345 /* AtoB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtoB.swift; sourceTree = "<group>"; };
-		ACF39E8928546A8A0055B345 /* numericStringToword.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numericStringToword.swift; sourceTree = "<group>"; };
+		ACF39E8928546A8A0055B345 /* numericStringToWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numericStringToWord.swift; sourceTree = "<group>"; };
+		ACF39E8D285568020055B345 /* mockExam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mockExam.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,7 +104,8 @@
 			isa = PBXGroup;
 			children = (
 				ACF39E6828522A920055B345 /* InnerProduct.swift */,
-				ACF39E8928546A8A0055B345 /* numericStringToword.swift */,
+				ACF39E8928546A8A0055B345 /* numericStringToWord.swift */,
+				ACF39E8D285568020055B345 /* mockExam.swift */,
 			);
 			name = "2주차";
 			path = "2주차";
@@ -188,13 +191,14 @@
 				ACF39E6528504C230055B345 /* GetCenterText.swift in Sources */,
 				ACF39E6928522A920055B345 /* InnerProduct.swift in Sources */,
 				ACF39E58284D4A970055B345 /* ClawCrain.swift in Sources */,
-				ACF39E8A28546A8A0055B345 /* numericStringToword.swift in Sources */,
+				ACF39E8A28546A8A0055B345 /* numericStringToWord.swift in Sources */,
 				ACF39E63285039460055B345 /* SumBetweenTwoIntegers.swift in Sources */,
 				ACF39E842854167E0055B345 /* treasure.swift in Sources */,
 				ACF39E56284C35430055B345 /* HighestLowestLotto.swift in Sources */,
 				ACF39E852854167E0055B345 /* sugarDeliver.swift in Sources */,
 				ACF39E882854586D0055B345 /* AtoB.swift in Sources */,
 				ACF39E61284E57180055B345 /* NumberKth.swift in Sources */,
+				ACF39E8E285568020055B345 /* mockExam.swift in Sources */,
 				AC5332EA2849FA0C000EAF88 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
