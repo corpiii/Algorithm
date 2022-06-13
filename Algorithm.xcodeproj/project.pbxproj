@@ -20,6 +20,7 @@
 		ACF39E8A28546A8A0055B345 /* numericStringToWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E8928546A8A0055B345 /* numericStringToWord.swift */; };
 		ACF39E8E285568020055B345 /* mockExam.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E8D285568020055B345 /* mockExam.swift */; };
 		ACF39E902856D3670055B345 /* primeMaking.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E8F2856D3670055B345 /* primeMaking.swift */; };
+		ACF39E92285722580055B345 /* wordMath.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E91285722580055B345 /* wordMath.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -49,6 +50,7 @@
 		ACF39E8928546A8A0055B345 /* numericStringToWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numericStringToWord.swift; sourceTree = "<group>"; };
 		ACF39E8D285568020055B345 /* mockExam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mockExam.swift; sourceTree = "<group>"; };
 		ACF39E8F2856D3670055B345 /* primeMaking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = primeMaking.swift; sourceTree = "<group>"; };
+		ACF39E91285722580055B345 /* wordMath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wordMath.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 				ACF39E832854167E0055B345 /* sugarDeliver.swift */,
 				ACF39E822854167E0055B345 /* treasure.swift */,
 				ACF39E872854586D0055B345 /* AtoB.swift */,
+				ACF39E91285722580055B345 /* wordMath.swift */,
 			);
 			path = greedy;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				ACF39E8A28546A8A0055B345 /* numericStringToWord.swift in Sources */,
 				ACF39E63285039460055B345 /* SumBetweenTwoIntegers.swift in Sources */,
 				ACF39E842854167E0055B345 /* treasure.swift in Sources */,
+				ACF39E92285722580055B345 /* wordMath.swift in Sources */,
 				ACF39E56284C35430055B345 /* HighestLowestLotto.swift in Sources */,
 				ACF39E852854167E0055B345 /* sugarDeliver.swift in Sources */,
 				ACF39E882854586D0055B345 /* AtoB.swift in Sources */,

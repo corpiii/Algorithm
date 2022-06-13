@@ -34,3 +34,8 @@ import Foundation
 // 숫자 문자열과 영단어
 //print(numericStringToword("2three45sixseven"))
 
+// 소수만들기
+//print(primeMaking([1,2,3,4,5,6,7]))
+
+// 단어 수학
+//wordMath()
