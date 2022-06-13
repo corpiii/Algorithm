@@ -17,3 +17,4 @@
 - [설탕 배달](https://www.acmicpc.net/problem/2839)
 - [보물](https://www.acmicpc.net/problem/1026)
 - [A -> B](https://www.acmicpc.net/problem/16953)
+- [단어 수학](https://www.acmicpc.net/problem/1339)
