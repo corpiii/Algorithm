@@ -12,6 +12,7 @@
 - [내적](https://programmers.co.kr/learn/courses/30/lessons/70128)
 - [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
 - [소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
+- [이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
 
 ### 그리디
 - [설탕 배달](https://www.acmicpc.net/problem/2839)
