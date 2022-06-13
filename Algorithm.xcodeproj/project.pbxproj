@@ -19,6 +19,7 @@
 		ACF39E882854586D0055B345 /* AtoB.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E872854586D0055B345 /* AtoB.swift */; };
 		ACF39E8A28546A8A0055B345 /* numericStringToWord.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E8928546A8A0055B345 /* numericStringToWord.swift */; };
 		ACF39E8E285568020055B345 /* mockExam.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E8D285568020055B345 /* mockExam.swift */; };
+		ACF39E902856D3670055B345 /* primeMaking.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E8F2856D3670055B345 /* primeMaking.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,6 +48,7 @@
 		ACF39E872854586D0055B345 /* AtoB.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AtoB.swift; sourceTree = "<group>"; };
 		ACF39E8928546A8A0055B345 /* numericStringToWord.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = numericStringToWord.swift; sourceTree = "<group>"; };
 		ACF39E8D285568020055B345 /* mockExam.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mockExam.swift; sourceTree = "<group>"; };
+		ACF39E8F2856D3670055B345 /* primeMaking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = primeMaking.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				ACF39E6828522A920055B345 /* InnerProduct.swift */,
 				ACF39E8928546A8A0055B345 /* numericStringToWord.swift */,
 				ACF39E8D285568020055B345 /* mockExam.swift */,
+				ACF39E8F2856D3670055B345 /* primeMaking.swift */,
 			);
 			name = "2주차";
 			path = "2주차";
@@ -188,6 +191,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACF39E902856D3670055B345 /* primeMaking.swift in Sources */,
 				ACF39E6528504C230055B345 /* GetCenterText.swift in Sources */,
 				ACF39E6928522A920055B345 /* InnerProduct.swift in Sources */,
 				ACF39E58284D4A970055B345 /* ClawCrain.swift in Sources */,
