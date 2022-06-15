@@ -25,6 +25,7 @@
   - [🥇단어 수학](https://www.acmicpc.net/problem/1339)
 
 - 탐색
+  - [🥈DFS와 BFS](https://www.acmicpc.net/problem/1260)
 
 - 동적 프로그래밍
 
