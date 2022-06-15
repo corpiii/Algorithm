@@ -14,6 +14,7 @@
   - [🥈모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
   - [🥈소수 만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)
   - [🥈이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
+  - [🥈[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 
 ### 추가로 해본것 
 
