@@ -23,6 +23,7 @@
 		ACF39E92285722580055B345 /* wordMath.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E91285722580055B345 /* wordMath.swift */; };
 		ACF39E9428576A0C0055B345 /* weirdString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9328576A0C0055B345 /* weirdString.swift */; };
 		ACF39E9628598B740055B345 /* hitKeypad.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9528598B740055B345 /* hitKeypad.swift */; };
+		ACF39E992859F2A10055B345 /* DFS와 BFS.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E982859F2A10055B345 /* DFS와 BFS.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +56,7 @@
 		ACF39E91285722580055B345 /* wordMath.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wordMath.swift; sourceTree = "<group>"; };
 		ACF39E9328576A0C0055B345 /* weirdString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weirdString.swift; sourceTree = "<group>"; };
 		ACF39E9528598B740055B345 /* hitKeypad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hitKeypad.swift; sourceTree = "<group>"; };
+		ACF39E982859F2A10055B345 /* DFS와 BFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DFS와 BFS.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -125,6 +127,7 @@
 		ACF39E81285416140055B345 /* 추가로 해본 것 */ = {
 			isa = PBXGroup;
 			children = (
+				ACF39E972859F2880055B345 /* 탐색 */,
 				ACF39E86285416A00055B345 /* greedy */,
 			);
 			name = "추가로 해본 것";
@@ -140,6 +143,15 @@
 				ACF39E91285722580055B345 /* wordMath.swift */,
 			);
 			path = greedy;
+			sourceTree = "<group>";
+		};
+		ACF39E972859F2880055B345 /* 탐색 */ = {
+			isa = PBXGroup;
+			children = (
+				ACF39E982859F2A10055B345 /* DFS와 BFS.swift */,
+			);
+			name = "탐색";
+			path = "탐색";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -207,6 +219,7 @@
 				ACF39E8A28546A8A0055B345 /* numericStringToWord.swift in Sources */,
 				ACF39E9428576A0C0055B345 /* weirdString.swift in Sources */,
 				ACF39E63285039460055B345 /* SumBetweenTwoIntegers.swift in Sources */,
+				ACF39E992859F2A10055B345 /* DFS와 BFS.swift in Sources */,
 				ACF39E842854167E0055B345 /* treasure.swift in Sources */,
 				ACF39E92285722580055B345 /* wordMath.swift in Sources */,
 				ACF39E56284C35430055B345 /* HighestLowestLotto.swift in Sources */,

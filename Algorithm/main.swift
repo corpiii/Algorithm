@@ -39,3 +39,5 @@ import Foundation
 
 // 단어 수학
 //wordMath()
+
+dfs_bfs()
