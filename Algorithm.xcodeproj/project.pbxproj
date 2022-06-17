@@ -24,6 +24,8 @@
 		ACF39E9428576A0C0055B345 /* weirdString.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9328576A0C0055B345 /* weirdString.swift */; };
 		ACF39E9628598B740055B345 /* hitKeypad.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9528598B740055B345 /* hitKeypad.swift */; };
 		ACF39E992859F2A10055B345 /* DFS와 BFS.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E982859F2A10055B345 /* DFS와 BFS.swift */; };
+		ACF39E9C285B7B410055B345 /* vowelDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9B285B7B410055B345 /* vowelDictionary.swift */; };
+		ACF39E9E285CF49C0055B345 /* parkingFee.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9D285CF49C0055B345 /* parkingFee.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -57,6 +59,8 @@
 		ACF39E9328576A0C0055B345 /* weirdString.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = weirdString.swift; sourceTree = "<group>"; };
 		ACF39E9528598B740055B345 /* hitKeypad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hitKeypad.swift; sourceTree = "<group>"; };
 		ACF39E982859F2A10055B345 /* DFS와 BFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DFS와 BFS.swift"; sourceTree = "<group>"; };
+		ACF39E9B285B7B410055B345 /* vowelDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vowelDictionary.swift; sourceTree = "<group>"; };
+		ACF39E9D285CF49C0055B345 /* parkingFee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parkingFee.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +97,7 @@
 				AC5332E92849FA0C000EAF88 /* main.swift */,
 				ACF39E6628522A530055B345 /* 1주차 */,
 				ACF39E6728522A600055B345 /* 2주차 */,
+				ACF39E9A285B7AFD0055B345 /* 3주차 */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -152,6 +157,16 @@
 			);
 			name = "탐색";
 			path = "탐색";
+			sourceTree = "<group>";
+		};
+		ACF39E9A285B7AFD0055B345 /* 3주차 */ = {
+			isa = PBXGroup;
+			children = (
+				ACF39E9B285B7B410055B345 /* vowelDictionary.swift */,
+				ACF39E9D285CF49C0055B345 /* parkingFee.swift */,
+			);
+			name = "3주차";
+			path = "3주차";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -223,8 +238,10 @@
 				ACF39E842854167E0055B345 /* treasure.swift in Sources */,
 				ACF39E92285722580055B345 /* wordMath.swift in Sources */,
 				ACF39E56284C35430055B345 /* HighestLowestLotto.swift in Sources */,
+				ACF39E9C285B7B410055B345 /* vowelDictionary.swift in Sources */,
 				ACF39E852854167E0055B345 /* sugarDeliver.swift in Sources */,
 				ACF39E882854586D0055B345 /* AtoB.swift in Sources */,
+				ACF39E9E285CF49C0055B345 /* parkingFee.swift in Sources */,
 				ACF39E61284E57180055B345 /* NumberKth.swift in Sources */,
 				ACF39E9628598B740055B345 /* hitKeypad.swift in Sources */,
 				ACF39E8E285568020055B345 /* mockExam.swift in Sources */,
