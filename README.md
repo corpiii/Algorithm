@@ -16,6 +16,10 @@
   - [🥈이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)
   - [🥈[카카오 인턴] 키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 
+- 3주차
+  - [🥈모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)
+  - [🥈주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
+
 ### 추가로 해본것 
 
 - 그리디
