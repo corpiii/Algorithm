@@ -11,6 +11,7 @@ typealias CarNumber = Int
 typealias Time = String
 typealias TotalTime = Int
 
+
 func parkingFee(_ fees:[Int], _ records:[String]) -> [Int] {
     var result: [Int] = []
     var parkingLot: [CarNumber : Time] = [:] // 주차장

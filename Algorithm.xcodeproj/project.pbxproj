@@ -26,6 +26,7 @@
 		ACF39E992859F2A10055B345 /* DFS와 BFS.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E982859F2A10055B345 /* DFS와 BFS.swift */; };
 		ACF39E9C285B7B410055B345 /* vowelDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9B285B7B410055B345 /* vowelDictionary.swift */; };
 		ACF39E9E285CF49C0055B345 /* parkingFee.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9D285CF49C0055B345 /* parkingFee.swift */; };
+		ACF39EA0285F38F30055B345 /* socialDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9F285F38F30055B345 /* socialDistance.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -61,6 +62,7 @@
 		ACF39E982859F2A10055B345 /* DFS와 BFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DFS와 BFS.swift"; sourceTree = "<group>"; };
 		ACF39E9B285B7B410055B345 /* vowelDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vowelDictionary.swift; sourceTree = "<group>"; };
 		ACF39E9D285CF49C0055B345 /* parkingFee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parkingFee.swift; sourceTree = "<group>"; };
+		ACF39E9F285F38F30055B345 /* socialDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = socialDistance.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -164,6 +166,7 @@
 			children = (
 				ACF39E9B285B7B410055B345 /* vowelDictionary.swift */,
 				ACF39E9D285CF49C0055B345 /* parkingFee.swift */,
+				ACF39E9F285F38F30055B345 /* socialDistance.swift */,
 			);
 			name = "3주차";
 			path = "3주차";
@@ -244,6 +247,7 @@
 				ACF39E9E285CF49C0055B345 /* parkingFee.swift in Sources */,
 				ACF39E61284E57180055B345 /* NumberKth.swift in Sources */,
 				ACF39E9628598B740055B345 /* hitKeypad.swift in Sources */,
+				ACF39EA0285F38F30055B345 /* socialDistance.swift in Sources */,
 				ACF39E8E285568020055B345 /* mockExam.swift in Sources */,
 				AC5332EA2849FA0C000EAF88 /* main.swift in Sources */,
 			);

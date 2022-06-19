@@ -47,18 +47,3 @@ import Foundation
 
 //print(vowelDictionary("AAA"))
 //print(vowelDictionary("IOU"))
-
-var dict: [Int : String] = [:]
-dict[35] = "e"
-dict[38] = "g"
-dict[44] = "c"
-print(dict)
-
-for i in dict.sorted(by: {$0.key < $1.key}) {
-    print(i)
-}
-print(dict)
-
-print(Int("0000")!)
-
-print("34" < "332")
