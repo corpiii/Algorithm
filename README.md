@@ -20,6 +20,7 @@
   - [🥈모음 사전](https://programmers.co.kr/learn/courses/30/lessons/84512)
   - [🥈주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341)
   - [🥇[카카오 인턴] 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
+  - [🥈[카카오] 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
 
 ### 추가로 해본것 
 
