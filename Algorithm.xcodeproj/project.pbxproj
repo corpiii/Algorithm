@@ -27,6 +27,7 @@
 		ACF39E9C285B7B410055B345 /* vowelDictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9B285B7B410055B345 /* vowelDictionary.swift */; };
 		ACF39E9E285CF49C0055B345 /* parkingFee.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9D285CF49C0055B345 /* parkingFee.swift */; };
 		ACF39EA0285F38F30055B345 /* socialDistance.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E9F285F38F30055B345 /* socialDistance.swift */; };
+		ACF39EA22861B4DC0055B345 /* openChat.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EA12861B4DC0055B345 /* openChat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +64,7 @@
 		ACF39E9B285B7B410055B345 /* vowelDictionary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vowelDictionary.swift; sourceTree = "<group>"; };
 		ACF39E9D285CF49C0055B345 /* parkingFee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parkingFee.swift; sourceTree = "<group>"; };
 		ACF39E9F285F38F30055B345 /* socialDistance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = socialDistance.swift; sourceTree = "<group>"; };
+		ACF39EA12861B4DC0055B345 /* openChat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = openChat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +169,7 @@
 				ACF39E9B285B7B410055B345 /* vowelDictionary.swift */,
 				ACF39E9D285CF49C0055B345 /* parkingFee.swift */,
 				ACF39E9F285F38F30055B345 /* socialDistance.swift */,
+				ACF39EA12861B4DC0055B345 /* openChat.swift */,
 			);
 			name = "3주차";
 			path = "3주차";
@@ -237,6 +240,7 @@
 				ACF39E8A28546A8A0055B345 /* numericStringToWord.swift in Sources */,
 				ACF39E9428576A0C0055B345 /* weirdString.swift in Sources */,
 				ACF39E63285039460055B345 /* SumBetweenTwoIntegers.swift in Sources */,
+				ACF39EA22861B4DC0055B345 /* openChat.swift in Sources */,
 				ACF39E992859F2A10055B345 /* DFS와 BFS.swift in Sources */,
 				ACF39E842854167E0055B345 /* treasure.swift in Sources */,
 				ACF39E92285722580055B345 /* wordMath.swift in Sources */,
