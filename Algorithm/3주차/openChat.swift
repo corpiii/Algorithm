@@ -7,7 +7,7 @@
 
 import Foundation
 
-func solution(_ record:[String]) -> [String] {
+func openChat(_ record:[String]) -> [String] {
     var result: [String] = []
     var nickNameDict: [String : String] = [:]
     var in_outRecord: [[String]] = []
