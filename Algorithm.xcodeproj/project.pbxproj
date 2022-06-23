@@ -30,6 +30,7 @@
 		ACF39EA22861B4DC0055B345 /* openChat.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EA12861B4DC0055B345 /* openChat.swift */; };
 		ACF39EA42861EBFB0055B345 /* network.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EA32861EBFB0055B345 /* network.swift */; };
 		ACF39EA62862F6820055B345 /* featureDevelop.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EA52862F6820055B345 /* featureDevelop.swift */; };
+		ACF39EA82864C5820055B345 /* findPrime.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EA72864C5820055B345 /* findPrime.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -69,6 +70,7 @@
 		ACF39EA12861B4DC0055B345 /* openChat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = openChat.swift; sourceTree = "<group>"; };
 		ACF39EA32861EBFB0055B345 /* network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = network.swift; sourceTree = "<group>"; };
 		ACF39EA52862F6820055B345 /* featureDevelop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = featureDevelop.swift; sourceTree = "<group>"; };
+		ACF39EA72864C5820055B345 /* findPrime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findPrime.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -176,6 +178,7 @@
 				ACF39E9F285F38F30055B345 /* socialDistance.swift */,
 				ACF39EA12861B4DC0055B345 /* openChat.swift */,
 				ACF39EA52862F6820055B345 /* featureDevelop.swift */,
+				ACF39EA72864C5820055B345 /* findPrime.swift */,
 			);
 			name = "3주차";
 			path = "3주차";
@@ -247,6 +250,7 @@
 				ACF39E9428576A0C0055B345 /* weirdString.swift in Sources */,
 				ACF39E63285039460055B345 /* SumBetweenTwoIntegers.swift in Sources */,
 				ACF39EA22861B4DC0055B345 /* openChat.swift in Sources */,
+				ACF39EA82864C5820055B345 /* findPrime.swift in Sources */,
 				ACF39EA62862F6820055B345 /* featureDevelop.swift in Sources */,
 				ACF39E992859F2A10055B345 /* DFS와 BFS.swift in Sources */,
 				ACF39E842854167E0055B345 /* treasure.swift in Sources */,
