@@ -22,6 +22,10 @@
   - [🥇[카카오 인턴] 거리두기 확인하기](https://programmers.co.kr/learn/courses/30/lessons/81302)
   - [🥈[카카오] 오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888)
   - [🥈기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)
+  
+- 4주차
+  - [🥈소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
+  - [🥈카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
 
 ### 추가로 해본것 
 
