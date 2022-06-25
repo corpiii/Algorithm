@@ -32,6 +32,8 @@
 		ACF39EA62862F6820055B345 /* featureDevelop.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EA52862F6820055B345 /* featureDevelop.swift */; };
 		ACF39EA82864C5820055B345 /* findPrime.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EA72864C5820055B345 /* findPrime.swift */; };
 		ACF39EAA2865C6D30055B345 /* carpet.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EA92865C6D30055B345 /* carpet.swift */; };
+		ACF39EAC2866AC5D0055B345 /* network_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EAB2866AC5D0055B345 /* network_2.swift */; };
+		ACF39EAE2866AC6C0055B345 /* targetNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EAD2866AC6C0055B345 /* targetNum.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -73,6 +75,8 @@
 		ACF39EA52862F6820055B345 /* featureDevelop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = featureDevelop.swift; sourceTree = "<group>"; };
 		ACF39EA72864C5820055B345 /* findPrime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findPrime.swift; sourceTree = "<group>"; };
 		ACF39EA92865C6D30055B345 /* carpet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carpet.swift; sourceTree = "<group>"; };
+		ACF39EAB2866AC5D0055B345 /* network_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = network_2.swift; sourceTree = "<group>"; };
+		ACF39EAD2866AC6C0055B345 /* targetNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = targetNum.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -182,6 +186,8 @@
 				ACF39EA52862F6820055B345 /* featureDevelop.swift */,
 				ACF39EA72864C5820055B345 /* findPrime.swift */,
 				ACF39EA92865C6D30055B345 /* carpet.swift */,
+				ACF39EAD2866AC6C0055B345 /* targetNum.swift */,
+				ACF39EAB2866AC5D0055B345 /* network_2.swift */,
 			);
 			name = "3주차";
 			path = "3주차";
@@ -248,6 +254,7 @@
 				ACF39E902856D3670055B345 /* primeMaking.swift in Sources */,
 				ACF39E6528504C230055B345 /* GetCenterText.swift in Sources */,
 				ACF39E6928522A920055B345 /* InnerProduct.swift in Sources */,
+				ACF39EAC2866AC5D0055B345 /* network_2.swift in Sources */,
 				ACF39EAA2865C6D30055B345 /* carpet.swift in Sources */,
 				ACF39E58284D4A970055B345 /* ClawCrain.swift in Sources */,
 				ACF39E8A28546A8A0055B345 /* numericStringToWord.swift in Sources */,
@@ -270,6 +277,7 @@
 				ACF39EA0285F38F30055B345 /* socialDistance.swift in Sources */,
 				ACF39E8E285568020055B345 /* mockExam.swift in Sources */,
 				AC5332EA2849FA0C000EAF88 /* main.swift in Sources */,
+				ACF39EAE2866AC6C0055B345 /* targetNum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
