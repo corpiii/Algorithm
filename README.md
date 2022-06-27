@@ -27,7 +27,7 @@
   - [🥈소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
   - [🥈카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)
   - [🥈타겟넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)
-  - [🥈네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
+  - [🥇네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162)
   - [🥇단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
   - [🥇여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
 
