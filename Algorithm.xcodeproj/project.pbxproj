@@ -118,6 +118,7 @@
 				ACF39E6628522A530055B345 /* 1주차 */,
 				ACF39E6728522A600055B345 /* 2주차 */,
 				ACF39E9A285B7AFD0055B345 /* 3주차 */,
+				ACF39EB32869AA890055B345 /* 4주차 */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -188,6 +189,14 @@
 				ACF39E9F285F38F30055B345 /* socialDistance.swift */,
 				ACF39EA12861B4DC0055B345 /* openChat.swift */,
 				ACF39EA52862F6820055B345 /* featureDevelop.swift */,
+			);
+			name = "3주차";
+			path = "3주차";
+			sourceTree = "<group>";
+		};
+		ACF39EB32869AA890055B345 /* 4주차 */ = {
+			isa = PBXGroup;
+			children = (
 				ACF39EA72864C5820055B345 /* findPrime.swift */,
 				ACF39EA92865C6D30055B345 /* carpet.swift */,
 				ACF39EAD2866AC6C0055B345 /* targetNum.swift */,
@@ -195,8 +204,8 @@
 				ACF39EAF2869A9EC0055B345 /* wordConversion.swift */,
 				ACF39EB12869A9F90055B345 /* travelRoute.swift */,
 			);
-			name = "3주차";
-			path = "3주차";
+			name = "4주차";
+			path = "4주차";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
