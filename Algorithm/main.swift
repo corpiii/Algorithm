@@ -47,3 +47,26 @@ import Foundation
 
 //print(vowelDictionary("AAA"))
 //print(vowelDictionary("IOU"))
+
+
+let intArray: [Int] = [1, 2, 3, 4]
+var combinationArray: [[Int]] = []
+let numberOfPick: Int = 2
+//
+//func combinationWithRecursion(array: [(Int,Int)], pickCount: Int, index: Int = 0, tempArray: [(Int, Int)], combsArray: inout [[(Int, Int)]] -> [(Int, Int)] {
+//    if tempArray.count == pickCount {
+//        combsArray.append(tempArray)
+//        return []
+//    }
+//
+//    for i in index..<array.count {
+//        combinationWithRecursion(array: array, pickCount: pickCount, index: i + 1, tempArray: tempArray + [array[i]], combsArray: &combsArray)
+//    }
+//
+//    return combsArray
+//}
+
+//combinationWithRecursion(array: intArray, pickCount: numberOfPick, tempArray: [], combsArray: &combinationArray)
+//print("4개의 값에서 2개를 고르는 조합의 수: \(combinationArray.count)개") //6개
+//print(combinationArray)
+laboratory()

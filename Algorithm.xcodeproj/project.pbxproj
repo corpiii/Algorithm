@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		AC5332EA2849FA0C000EAF88 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5332E92849FA0C000EAF88 /* main.swift */; };
+		ACDCF094286A0E430014B67E /* laboratory.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF093286A0E430014B67E /* laboratory.swift */; };
+		ACDCF097286A0F190014B67E /* naver.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF096286A0F190014B67E /* naver.swift */; };
 		ACF39E56284C35430055B345 /* HighestLowestLotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E55284C35430055B345 /* HighestLowestLotto.swift */; };
 		ACF39E58284D4A970055B345 /* ClawCrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E57284D4A970055B345 /* ClawCrain.swift */; };
 		ACF39E61284E57180055B345 /* NumberKth.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E60284E57180055B345 /* NumberKth.swift */; };
@@ -53,6 +55,8 @@
 /* Begin PBXFileReference section */
 		AC5332E62849FA0C000EAF88 /* Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC5332E92849FA0C000EAF88 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		ACDCF093286A0E430014B67E /* laboratory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = laboratory.swift; sourceTree = "<group>"; };
+		ACDCF096286A0F190014B67E /* naver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver.swift; sourceTree = "<group>"; };
 		ACF39E55284C35430055B345 /* HighestLowestLotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighestLowestLotto.swift; sourceTree = "<group>"; };
 		ACF39E57284D4A970055B345 /* ClawCrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClawCrain.swift; sourceTree = "<group>"; };
 		ACF39E60284E57180055B345 /* NumberKth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberKth.swift; sourceTree = "<group>"; };
@@ -123,6 +127,14 @@
 			path = Algorithm;
 			sourceTree = "<group>";
 		};
+		ACDCF095286A0F0A0014B67E /* naver */ = {
+			isa = PBXGroup;
+			children = (
+				ACDCF096286A0F190014B67E /* naver.swift */,
+			);
+			path = naver;
+			sourceTree = "<group>";
+		};
 		ACF39E6628522A530055B345 /* 1주차 */ = {
 			isa = PBXGroup;
 			children = (
@@ -153,6 +165,7 @@
 		ACF39E81285416140055B345 /* 추가로 해본 것 */ = {
 			isa = PBXGroup;
 			children = (
+				ACDCF095286A0F0A0014B67E /* naver */,
 				ACF39E972859F2880055B345 /* 탐색 */,
 				ACF39E86285416A00055B345 /* greedy */,
 			);
@@ -176,6 +189,7 @@
 			children = (
 				ACF39E982859F2A10055B345 /* DFS와 BFS.swift */,
 				ACF39EA32861EBFB0055B345 /* network.swift */,
+				ACDCF093286A0E430014B67E /* laboratory.swift */,
 			);
 			name = "탐색";
 			path = "탐색";
@@ -293,7 +307,9 @@
 				ACF39EA42861EBFB0055B345 /* network.swift in Sources */,
 				ACF39EA0285F38F30055B345 /* socialDistance.swift in Sources */,
 				ACF39E8E285568020055B345 /* mockExam.swift in Sources */,
+				ACDCF097286A0F190014B67E /* naver.swift in Sources */,
 				AC5332EA2849FA0C000EAF88 /* main.swift in Sources */,
+				ACDCF094286A0E430014B67E /* laboratory.swift in Sources */,
 				ACF39EAE2866AC6C0055B345 /* targetNum.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
