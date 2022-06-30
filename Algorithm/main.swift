@@ -69,4 +69,6 @@ let numberOfPick: Int = 2
 //combinationWithRecursion(array: intArray, pickCount: numberOfPick, tempArray: [], combsArray: &combinationArray)
 //print("4개의 값에서 2개를 고르는 조합의 수: \(combinationArray.count)개") //6개
 //print(combinationArray)
-laboratory()
+//laboratory()
+
+valueInParentheses()
