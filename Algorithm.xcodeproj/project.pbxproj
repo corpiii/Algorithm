@@ -10,6 +10,8 @@
 		AC5332EA2849FA0C000EAF88 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC5332E92849FA0C000EAF88 /* main.swift */; };
 		ACDCF094286A0E430014B67E /* laboratory.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF093286A0E430014B67E /* laboratory.swift */; };
 		ACDCF097286A0F190014B67E /* naver.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF096286A0F190014B67E /* naver.swift */; };
+		ACDCF0B5286B40F50014B67E /* roomNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF0B4286B40F50014B67E /* roomNumber.swift */; };
+		ACDCF0B7286D7FE20014B67E /* valueInParentheses.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF0B6286D7FE20014B67E /* valueInParentheses.swift */; };
 		ACF39E56284C35430055B345 /* HighestLowestLotto.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E55284C35430055B345 /* HighestLowestLotto.swift */; };
 		ACF39E58284D4A970055B345 /* ClawCrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E57284D4A970055B345 /* ClawCrain.swift */; };
 		ACF39E61284E57180055B345 /* NumberKth.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39E60284E57180055B345 /* NumberKth.swift */; };
@@ -57,6 +59,8 @@
 		AC5332E92849FA0C000EAF88 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		ACDCF093286A0E430014B67E /* laboratory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = laboratory.swift; sourceTree = "<group>"; };
 		ACDCF096286A0F190014B67E /* naver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver.swift; sourceTree = "<group>"; };
+		ACDCF0B4286B40F50014B67E /* roomNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = roomNumber.swift; sourceTree = "<group>"; };
+		ACDCF0B6286D7FE20014B67E /* valueInParentheses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = valueInParentheses.swift; sourceTree = "<group>"; };
 		ACF39E55284C35430055B345 /* HighestLowestLotto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighestLowestLotto.swift; sourceTree = "<group>"; };
 		ACF39E57284D4A970055B345 /* ClawCrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ClawCrain.swift; sourceTree = "<group>"; };
 		ACF39E60284E57180055B345 /* NumberKth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberKth.swift; sourceTree = "<group>"; };
@@ -135,6 +139,15 @@
 			path = naver;
 			sourceTree = "<group>";
 		};
+		ACDCF0B3286B40E70014B67E /* simulator */ = {
+			isa = PBXGroup;
+			children = (
+				ACDCF0B4286B40F50014B67E /* roomNumber.swift */,
+				ACDCF0B6286D7FE20014B67E /* valueInParentheses.swift */,
+			);
+			path = simulator;
+			sourceTree = "<group>";
+		};
 		ACF39E6628522A530055B345 /* 1주차 */ = {
 			isa = PBXGroup;
 			children = (
@@ -165,6 +178,7 @@
 		ACF39E81285416140055B345 /* 추가로 해본 것 */ = {
 			isa = PBXGroup;
 			children = (
+				ACDCF0B3286B40E70014B67E /* simulator */,
 				ACDCF095286A0F0A0014B67E /* naver */,
 				ACF39E972859F2880055B345 /* 탐색 */,
 				ACF39E86285416A00055B345 /* greedy */,
@@ -297,6 +311,7 @@
 				ACF39E992859F2A10055B345 /* DFS와 BFS.swift in Sources */,
 				ACF39E842854167E0055B345 /* treasure.swift in Sources */,
 				ACF39E92285722580055B345 /* wordMath.swift in Sources */,
+				ACDCF0B5286B40F50014B67E /* roomNumber.swift in Sources */,
 				ACF39E56284C35430055B345 /* HighestLowestLotto.swift in Sources */,
 				ACF39E9C285B7B410055B345 /* vowelDictionary.swift in Sources */,
 				ACF39E852854167E0055B345 /* sugarDeliver.swift in Sources */,
@@ -308,6 +323,7 @@
 				ACF39EA0285F38F30055B345 /* socialDistance.swift in Sources */,
 				ACF39E8E285568020055B345 /* mockExam.swift in Sources */,
 				ACDCF097286A0F190014B67E /* naver.swift in Sources */,
+				ACDCF0B7286D7FE20014B67E /* valueInParentheses.swift in Sources */,
 				AC5332EA2849FA0C000EAF88 /* main.swift in Sources */,
 				ACDCF094286A0E430014B67E /* laboratory.swift in Sources */,
 				ACF39EAE2866AC6C0055B345 /* targetNum.swift in Sources */,
