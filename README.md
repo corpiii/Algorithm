@@ -31,6 +31,9 @@
   - [🥇단어변환](https://programmers.co.kr/learn/courses/30/lessons/43163)
   - [🥇여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)
 
+- 5주차
+  - [🥈단지번호붙이기](https://www.acmicpc.net/problem/2667)
+
 ### 추가로 해본것 
 
 - 그리디
