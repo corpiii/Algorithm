@@ -39,9 +39,9 @@
 ### 추가로 해본것 
 
 - 구현
-  -[🥈괄호의 값](https://www.acmicpc.net/problem/2504)
-  -[🥈회문](https://www.acmicpc.net/problem/17609) (시간초과 😠)
-  -[🥈추월](https://www.acmicpc.net/problem/2002)
+  - [🥈괄호의 값](https://www.acmicpc.net/problem/2504)
+  - [🥈회문](https://www.acmicpc.net/problem/17609) (시간초과 😠)
+  - [🥈추월](https://www.acmicpc.net/problem/2002)
 
 - 그리디
   - [🥈설탕 배달](https://www.acmicpc.net/problem/2839)
