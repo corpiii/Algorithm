@@ -48,10 +48,10 @@ import Foundation
 //print(vowelDictionary("AAA"))
 //print(vowelDictionary("IOU"))
 
-
-let intArray: [Int] = [1, 2, 3, 4]
-var combinationArray: [[Int]] = []
-let numberOfPick: Int = 2
+//
+//let intArray: [Int] = [1, 2, 3, 4]
+//var combinationArray: [[Int]] = []
+//let numberOfPick: Int = 2
 //
 //func combinationWithRecursion(array: [(Int,Int)], pickCount: Int, index: Int = 0, tempArray: [(Int, Int)], combsArray: inout [[(Int, Int)]] -> [(Int, Int)] {
 //    if tempArray.count == pickCount {
@@ -71,4 +71,12 @@ let numberOfPick: Int = 2
 //print(combinationArray)
 //laboratory()
 
-valueInParentheses()
+//valueInParentheses()
+
+// 트럭
+//crossTruck()
+
+// 회문
+//palindrome()
+
+security()
