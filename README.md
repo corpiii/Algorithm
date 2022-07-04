@@ -33,8 +33,15 @@
 
 - 5주차
   - [🥈단지번호붙이기](https://www.acmicpc.net/problem/2667)
+  - [🥇트럭](https://www.acmicpc.net/problem/13335)
+  - [🥇경비원](https://www.acmicpc.net/problem/2564)
 
 ### 추가로 해본것 
+
+- 구현
+  -[🥈괄호의 값](https://www.acmicpc.net/problem/2504)
+  -[🥈회문](https://www.acmicpc.net/problem/17609) (시간초과 😠)
+  -[🥈추월](https://www.acmicpc.net/problem/2002)
 
 - 그리디
   - [🥈설탕 배달](https://www.acmicpc.net/problem/2839)
