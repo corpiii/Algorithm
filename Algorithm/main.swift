@@ -87,4 +87,6 @@ import Foundation
 
 //newCrew()
 
-hideAndSeek()
+//hideAndSeek()
+
+globalWarming()
