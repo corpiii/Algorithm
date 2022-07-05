@@ -13,6 +13,8 @@
 		ACB935E92872537B00F6EA13 /* security.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB935E82872537B00F6EA13 /* security.swift */; };
 		ACB935EB2873027A00F6EA13 /* overtaking.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB935EA2873027A00F6EA13 /* overtaking.swift */; };
 		ACB935F12873841A00F6EA13 /* newCrew.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB935F02873841A00F6EA13 /* newCrew.swift */; };
+		ACB935F32873844C00F6EA13 /* tetris.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB935F22873844C00F6EA13 /* tetris.swift */; };
+		ACB935F528741D6600F6EA13 /* hideAndSeek.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB935F428741D6600F6EA13 /* hideAndSeek.swift */; };
 		ACDCF094286A0E430014B67E /* laboratory.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF093286A0E430014B67E /* laboratory.swift */; };
 		ACDCF097286A0F190014B67E /* naver.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF096286A0F190014B67E /* naver.swift */; };
 		ACDCF0B5286B40F50014B67E /* roomNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF0B4286B40F50014B67E /* roomNumber.swift */; };
@@ -68,6 +70,8 @@
 		ACB935E82872537B00F6EA13 /* security.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = security.swift; sourceTree = "<group>"; };
 		ACB935EA2873027A00F6EA13 /* overtaking.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = overtaking.swift; sourceTree = "<group>"; };
 		ACB935F02873841A00F6EA13 /* newCrew.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newCrew.swift; sourceTree = "<group>"; };
+		ACB935F22873844C00F6EA13 /* tetris.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tetris.swift; sourceTree = "<group>"; };
+		ACB935F428741D6600F6EA13 /* hideAndSeek.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hideAndSeek.swift; sourceTree = "<group>"; };
 		ACDCF093286A0E430014B67E /* laboratory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = laboratory.swift; sourceTree = "<group>"; };
 		ACDCF096286A0F190014B67E /* naver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver.swift; sourceTree = "<group>"; };
 		ACDCF0B4286B40F50014B67E /* roomNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = roomNumber.swift; sourceTree = "<group>"; };
@@ -159,6 +163,7 @@
 				ACDCF0B6286D7FE20014B67E /* valueInParentheses.swift */,
 				ACB935E6287236A400F6EA13 /* palindrome.swift */,
 				ACB935EA2873027A00F6EA13 /* overtaking.swift */,
+				ACB935F22873844C00F6EA13 /* tetris.swift */,
 			);
 			path = simulator;
 			sourceTree = "<group>";
@@ -169,6 +174,7 @@
 				ACDCF0B9286DE0300014B67E /* NumberVillage.swift */,
 				ACB935E42872020300F6EA13 /* truck.swift */,
 				ACB935E82872537B00F6EA13 /* security.swift */,
+				ACB935F428741D6600F6EA13 /* hideAndSeek.swift */,
 			);
 			name = "5주차";
 			path = "5주차";
@@ -327,6 +333,7 @@
 				ACF39EAC2866AC5D0055B345 /* network_2.swift in Sources */,
 				ACF39EAA2865C6D30055B345 /* carpet.swift in Sources */,
 				ACF39EB22869A9F90055B345 /* travelRoute.swift in Sources */,
+				ACB935F528741D6600F6EA13 /* hideAndSeek.swift in Sources */,
 				ACF39EB02869A9EC0055B345 /* wordConversion.swift in Sources */,
 				ACF39E58284D4A970055B345 /* ClawCrain.swift in Sources */,
 				ACF39E8A28546A8A0055B345 /* numericStringToWord.swift in Sources */,
@@ -339,6 +346,7 @@
 				ACF39E992859F2A10055B345 /* DFS와 BFS.swift in Sources */,
 				ACF39E842854167E0055B345 /* treasure.swift in Sources */,
 				ACB935E52872020300F6EA13 /* truck.swift in Sources */,
+				ACB935F32873844C00F6EA13 /* tetris.swift in Sources */,
 				ACF39E92285722580055B345 /* wordMath.swift in Sources */,
 				ACDCF0B5286B40F50014B67E /* roomNumber.swift in Sources */,
 				ACF39E56284C35430055B345 /* HighestLowestLotto.swift in Sources */,

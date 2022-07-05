@@ -87,3 +87,4 @@ import Foundation
 
 //newCrew()
 
+hideAndSeek()
