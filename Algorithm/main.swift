@@ -87,6 +87,8 @@ import Foundation
 
 //newCrew()
 
-hideAndSeek2()
+//hideAndSeek2()
 
 //globalWarming()
+
+bomberMan()
