@@ -19,6 +19,7 @@
 		ACB935FB2875A00B00F6EA13 /* bomberMan.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB935FA2875A00B00F6EA13 /* bomberMan.swift */; };
 		ACB935FE2875A04900F6EA13 /* countRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB935FD2875A04900F6EA13 /* countRectangle.swift */; };
 		ACB9360028763AAB00F6EA13 /* surfaceArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB935FF28763AAB00F6EA13 /* surfaceArea.swift */; };
+		ACB936032877859500F6EA13 /* hanoi.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB936022877859500F6EA13 /* hanoi.swift */; };
 		ACDCF094286A0E430014B67E /* laboratory.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF093286A0E430014B67E /* laboratory.swift */; };
 		ACDCF097286A0F190014B67E /* naver.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF096286A0F190014B67E /* naver.swift */; };
 		ACDCF0B5286B40F50014B67E /* roomNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF0B4286B40F50014B67E /* roomNumber.swift */; };
@@ -80,6 +81,7 @@
 		ACB935FA2875A00B00F6EA13 /* bomberMan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bomberMan.swift; sourceTree = "<group>"; };
 		ACB935FD2875A04900F6EA13 /* countRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = countRectangle.swift; sourceTree = "<group>"; };
 		ACB935FF28763AAB00F6EA13 /* surfaceArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = surfaceArea.swift; sourceTree = "<group>"; };
+		ACB936022877859500F6EA13 /* hanoi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hanoi.swift; sourceTree = "<group>"; };
 		ACDCF093286A0E430014B67E /* laboratory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = laboratory.swift; sourceTree = "<group>"; };
 		ACDCF096286A0F190014B67E /* naver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver.swift; sourceTree = "<group>"; };
 		ACDCF0B4286B40F50014B67E /* roomNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = roomNumber.swift; sourceTree = "<group>"; };
@@ -152,6 +154,7 @@
 				ACF39E9A285B7AFD0055B345 /* 3주차 */,
 				ACF39EB32869AA890055B345 /* 4주차 */,
 				ACDCF0B8286DE00B0014B67E /* 5주차 */,
+				ACB936012877858500F6EA13 /* 6주차 */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -162,6 +165,15 @@
 				ACB935FD2875A04900F6EA13 /* countRectangle.swift */,
 			);
 			path = purrSong;
+			sourceTree = "<group>";
+		};
+		ACB936012877858500F6EA13 /* 6주차 */ = {
+			isa = PBXGroup;
+			children = (
+				ACB936022877859500F6EA13 /* hanoi.swift */,
+			);
+			name = "6주차";
+			path = "6주차";
 			sourceTree = "<group>";
 		};
 		ACDCF095286A0F0A0014B67E /* naver */ = {
@@ -388,6 +400,7 @@
 				ACDCF097286A0F190014B67E /* naver.swift in Sources */,
 				ACDCF0BA286DE0300014B67E /* NumberVillage.swift in Sources */,
 				ACDCF0B7286D7FE20014B67E /* valueInParentheses.swift in Sources */,
+				ACB936032877859500F6EA13 /* hanoi.swift in Sources */,
 				AC5332EA2849FA0C000EAF88 /* main.swift in Sources */,
 				ACDCF094286A0E430014B67E /* laboratory.swift in Sources */,
 				ACB935F12873841A00F6EA13 /* newCrew.swift in Sources */,
