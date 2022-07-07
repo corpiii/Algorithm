@@ -91,4 +91,6 @@ import Foundation
 
 //globalWarming()
 
-bomberMan()
+//bomberMan()
+
+surfaceArea()
