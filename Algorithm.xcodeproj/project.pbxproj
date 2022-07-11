@@ -21,6 +21,7 @@
 		ACB9360028763AAB00F6EA13 /* surfaceArea.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB935FF28763AAB00F6EA13 /* surfaceArea.swift */; };
 		ACB936032877859500F6EA13 /* hanoi.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB936022877859500F6EA13 /* hanoi.swift */; };
 		ACB936052878197B00F6EA13 /* tomato.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB936042878197B00F6EA13 /* tomato.swift */; };
+		ACB9366D287C3BEF00F6EA13 /* organicCabbage.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB9366C287C3BEF00F6EA13 /* organicCabbage.swift */; };
 		ACDCF094286A0E430014B67E /* laboratory.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF093286A0E430014B67E /* laboratory.swift */; };
 		ACDCF097286A0F190014B67E /* naver.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF096286A0F190014B67E /* naver.swift */; };
 		ACDCF0B5286B40F50014B67E /* roomNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF0B4286B40F50014B67E /* roomNumber.swift */; };
@@ -84,6 +85,7 @@
 		ACB935FF28763AAB00F6EA13 /* surfaceArea.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = surfaceArea.swift; sourceTree = "<group>"; };
 		ACB936022877859500F6EA13 /* hanoi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hanoi.swift; sourceTree = "<group>"; };
 		ACB936042878197B00F6EA13 /* tomato.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tomato.swift; sourceTree = "<group>"; };
+		ACB9366C287C3BEF00F6EA13 /* organicCabbage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = organicCabbage.swift; sourceTree = "<group>"; };
 		ACDCF093286A0E430014B67E /* laboratory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = laboratory.swift; sourceTree = "<group>"; };
 		ACDCF096286A0F190014B67E /* naver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver.swift; sourceTree = "<group>"; };
 		ACDCF0B4286B40F50014B67E /* roomNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = roomNumber.swift; sourceTree = "<group>"; };
@@ -174,6 +176,7 @@
 			children = (
 				ACB936022877859500F6EA13 /* hanoi.swift */,
 				ACB936042878197B00F6EA13 /* tomato.swift */,
+				ACB9366C287C3BEF00F6EA13 /* organicCabbage.swift */,
 			);
 			name = "6주차";
 			path = "6주차";
@@ -401,6 +404,7 @@
 				ACF39EA0285F38F30055B345 /* socialDistance.swift in Sources */,
 				ACF39E8E285568020055B345 /* mockExam.swift in Sources */,
 				ACDCF097286A0F190014B67E /* naver.swift in Sources */,
+				ACB9366D287C3BEF00F6EA13 /* organicCabbage.swift in Sources */,
 				ACDCF0BA286DE0300014B67E /* NumberVillage.swift in Sources */,
 				ACDCF0B7286D7FE20014B67E /* valueInParentheses.swift in Sources */,
 				ACB936032877859500F6EA13 /* hanoi.swift in Sources */,
