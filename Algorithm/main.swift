@@ -97,5 +97,10 @@ import Foundation
 
 // tomato()
 
-populationMove()
+//populationMove()
 
+//bulk()
+
+//studentNumber()
+
+fourAndSeven()
