@@ -26,6 +26,7 @@
 		ACB93673287D686000F6EA13 /* bulk.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB93672287D686000F6EA13 /* bulk.swift */; };
 		ACB93675287D6D0000F6EA13 /* studentNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB93674287D6D0000F6EA13 /* studentNumber.swift */; };
 		ACB93677287D9ABC00F6EA13 /* 4And7.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB93676287D9ABC00F6EA13 /* 4And7.swift */; };
+		ACB93679287E9EB600F6EA13 /* watcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB93678287E9EB600F6EA13 /* watcher.swift */; };
 		ACDCF094286A0E430014B67E /* laboratory.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF093286A0E430014B67E /* laboratory.swift */; };
 		ACDCF097286A0F190014B67E /* naver.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF096286A0F190014B67E /* naver.swift */; };
 		ACDCF0B5286B40F50014B67E /* roomNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF0B4286B40F50014B67E /* roomNumber.swift */; };
@@ -94,6 +95,7 @@
 		ACB93672287D686000F6EA13 /* bulk.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bulk.swift; sourceTree = "<group>"; };
 		ACB93674287D6D0000F6EA13 /* studentNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = studentNumber.swift; sourceTree = "<group>"; };
 		ACB93676287D9ABC00F6EA13 /* 4And7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4And7.swift; sourceTree = "<group>"; };
+		ACB93678287E9EB600F6EA13 /* watcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = watcher.swift; sourceTree = "<group>"; };
 		ACDCF093286A0E430014B67E /* laboratory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = laboratory.swift; sourceTree = "<group>"; };
 		ACDCF096286A0F190014B67E /* naver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver.swift; sourceTree = "<group>"; };
 		ACDCF0B4286B40F50014B67E /* roomNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = roomNumber.swift; sourceTree = "<group>"; };
@@ -185,6 +187,7 @@
 				ACB936022877859500F6EA13 /* hanoi.swift */,
 				ACB936042878197B00F6EA13 /* tomato.swift */,
 				ACB9366C287C3BEF00F6EA13 /* organicCabbage.swift */,
+				ACB93678287E9EB600F6EA13 /* watcher.swift */,
 			);
 			name = "6주차";
 			path = "6주차";
@@ -387,6 +390,7 @@
 				ACF39EB02869A9EC0055B345 /* wordConversion.swift in Sources */,
 				ACF39E58284D4A970055B345 /* ClawCrain.swift in Sources */,
 				ACF39E8A28546A8A0055B345 /* numericStringToWord.swift in Sources */,
+				ACB93679287E9EB600F6EA13 /* watcher.swift in Sources */,
 				ACB9360028763AAB00F6EA13 /* surfaceArea.swift in Sources */,
 				ACB935EB2873027A00F6EA13 /* overtaking.swift in Sources */,
 				ACF39E9428576A0C0055B345 /* weirdString.swift in Sources */,

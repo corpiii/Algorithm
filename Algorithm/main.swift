@@ -103,4 +103,113 @@ import Foundation
 
 //studentNumber()
 
-fourAndSeven()
+//fourAndSeven()
+//
+//var array = [(5, 0), (4, 2), (4, 1),(3, 2), (2, 3), (1, 4)]
+//
+//array.sort { first, second in
+//    if first.0 < second.0 {
+//        return true
+//    } else if first.0 == second.0 {
+//        if first.1 < first.0 {
+//            return true
+//        } else {
+//            return false
+//        }
+//    } else {
+//        return false
+//    }
+//}
+//
+//print(array)
+
+let input = readLine()!.components(separatedBy: " ").map({Int($0)!})
+let width = input[1]
+let height = input[0]
+var office: [[Int]] = []
+for _ in 1...input[0] {
+    let rowInfo = readLine()!.components(separatedBy: " ").map({Int($0)!})
+    office.append(rowInfo)
+}
+
+typealias cctvType = Int
+typealias col = Int
+typealias row = Int
+var cctvInfos: [(cctvType, row, col)] = []
+var totalZeros = 0
+
+for row in 0..<height {
+    for col in 0..<width {
+        if office[row][col] != 0 && office[row][col] != 6 {
+            let cctvNumber = office[row][col]
+            cctvInfos.append((cctvNumber, row, col))
+        } else if office[row][col] == 0 {
+            totalZeros += 1
+        }
+    }
+}
+var answer = totalZeros
+
+func dfs(index: Int, office: [[Int]], coverWithCCTV: Int) {
+    if index == cctvInfos.count {
+        let cannotWatchArea = totalZeros - coverWithCCTV
+        answer = min(cannotWatchArea, answer)
+        return
+    }
+
+    var newOffice = office
+
+    for direction in 0..<4 {
+        let location = (cctvInfos[index].1, cctvInfos[index].2)
+        let newCoverArea = watchCCTV(cctvInfos[index].0, direction, location, &newOffice)
+
+        dfs(index: index + 1, office: newOffice, coverWithCCTV: coverWithCCTV + newCoverArea)
+        newOffice = office
+    }
+}
+func watchCCTV(_ type: Int, _ direction: Int, _ location: (Int, Int), _ office: inout [[Int]]) -> Int {
+    var coverWithCCTV: Int = 0
+    var directions = [Int]()
+    directions.append(direction)
+    switch type {
+    case 2:
+        let appendDir = (direction + 2) % 4
+        directions.append(appendDir)
+    case 3:
+        let appendDir = (direction + 2) % 4
+        directions.append(appendDir)
+    case 4:
+        let appendDir1 = (direction + 1) % 4
+        let appendDir2 = (direction + 3) % 4
+        directions.append(contentsOf: [appendDir1, appendDir2])
+    case 5:
+        (0...3).forEach { rotateCount in
+            let appendDir = (direction + rotateCount) % 4
+            directions.append(appendDir)
+        }
+    default:
+        break
+    }
+
+    let dx = [-1, 0, 1, 0]
+    let dy = [0, 1, 0, -1]
+
+    for direct in directions {
+        var newRow = location.0 + dx[direct]
+        var newCol = location.1 + dy[direct]
+        while (newRow >= 0 && newCol >= 0 && newRow < height && newCol < width && office[newRow][newCol] != 6) {
+            let newLocation = office[newRow][newCol]
+            if newLocation == 0 {
+                office[newRow][newCol] = -1
+                coverWithCCTV += 1
+            }
+            newRow += dx[direct]
+            newCol += dy[direct]
+        }
+    }
+
+    return coverWithCCTV
+}
+
+dfs(index: 0, office: office, coverWithCCTV: 0)
+print(answer)
