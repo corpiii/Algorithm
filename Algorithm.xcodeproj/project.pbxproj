@@ -27,6 +27,7 @@
 		ACB93675287D6D0000F6EA13 /* studentNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB93674287D6D0000F6EA13 /* studentNumber.swift */; };
 		ACB93677287D9ABC00F6EA13 /* 4And7.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB93676287D9ABC00F6EA13 /* 4And7.swift */; };
 		ACB93679287E9EB600F6EA13 /* watcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB93678287E9EB600F6EA13 /* watcher.swift */; };
+		ACB9367C28817C3300F6EA13 /* upStair.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACB9367B28817C3300F6EA13 /* upStair.swift */; };
 		ACDCF094286A0E430014B67E /* laboratory.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF093286A0E430014B67E /* laboratory.swift */; };
 		ACDCF097286A0F190014B67E /* naver.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF096286A0F190014B67E /* naver.swift */; };
 		ACDCF0B5286B40F50014B67E /* roomNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACDCF0B4286B40F50014B67E /* roomNumber.swift */; };
@@ -96,6 +97,7 @@
 		ACB93674287D6D0000F6EA13 /* studentNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = studentNumber.swift; sourceTree = "<group>"; };
 		ACB93676287D9ABC00F6EA13 /* 4And7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4And7.swift; sourceTree = "<group>"; };
 		ACB93678287E9EB600F6EA13 /* watcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = watcher.swift; sourceTree = "<group>"; };
+		ACB9367B28817C3300F6EA13 /* upStair.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = upStair.swift; sourceTree = "<group>"; };
 		ACDCF093286A0E430014B67E /* laboratory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = laboratory.swift; sourceTree = "<group>"; };
 		ACDCF096286A0F190014B67E /* naver.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = naver.swift; sourceTree = "<group>"; };
 		ACDCF0B4286B40F50014B67E /* roomNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = roomNumber.swift; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 				ACF39EB32869AA890055B345 /* 4주차 */,
 				ACDCF0B8286DE00B0014B67E /* 5주차 */,
 				ACB936012877858500F6EA13 /* 6주차 */,
+				ACB9367A28817C1300F6EA13 /* 7주차 */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -191,6 +194,15 @@
 			);
 			name = "6주차";
 			path = "6주차";
+			sourceTree = "<group>";
+		};
+		ACB9367A28817C1300F6EA13 /* 7주차 */ = {
+			isa = PBXGroup;
+			children = (
+				ACB9367B28817C3300F6EA13 /* upStair.swift */,
+			);
+			name = "7주차";
+			path = "7주차";
 			sourceTree = "<group>";
 		};
 		ACDCF095286A0F0A0014B67E /* naver */ = {
@@ -426,6 +438,7 @@
 				ACDCF097286A0F190014B67E /* naver.swift in Sources */,
 				ACB9366D287C3BEF00F6EA13 /* organicCabbage.swift in Sources */,
 				ACDCF0BA286DE0300014B67E /* NumberVillage.swift in Sources */,
+				ACB9367C28817C3300F6EA13 /* upStair.swift in Sources */,
 				ACDCF0B7286D7FE20014B67E /* valueInParentheses.swift in Sources */,
 				ACB936032877859500F6EA13 /* hanoi.swift in Sources */,
 				AC5332EA2849FA0C000EAF88 /* main.swift in Sources */,
