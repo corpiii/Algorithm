@@ -61,6 +61,7 @@
 		ACF39EAE2866AC6C0055B345 /* targetNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EAD2866AC6C0055B345 /* targetNum.swift */; };
 		ACF39EB02869A9EC0055B345 /* wordConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EAF2869A9EC0055B345 /* wordConversion.swift */; };
 		ACF39EB22869A9F90055B345 /* travelRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EB12869A9F90055B345 /* travelRoute.swift */; };
+		ACFB47DD2887EF770077E950 /* coordinateSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFB47DC2887EF770077E950 /* coordinateSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -131,6 +132,7 @@
 		ACF39EAD2866AC6C0055B345 /* targetNum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = targetNum.swift; sourceTree = "<group>"; };
 		ACF39EAF2869A9EC0055B345 /* wordConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wordConversion.swift; sourceTree = "<group>"; };
 		ACF39EB12869A9F90055B345 /* travelRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = travelRoute.swift; sourceTree = "<group>"; };
+		ACFB47DC2887EF770077E950 /* coordinateSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coordinateSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -200,6 +202,7 @@
 			isa = PBXGroup;
 			children = (
 				ACB9367B28817C3300F6EA13 /* upStair.swift */,
+				ACFB47DC2887EF770077E950 /* coordinateSort.swift */,
 			);
 			name = "7주차";
 			path = "7주차";
@@ -407,6 +410,7 @@
 				ACB935EB2873027A00F6EA13 /* overtaking.swift in Sources */,
 				ACF39E9428576A0C0055B345 /* weirdString.swift in Sources */,
 				ACF39E63285039460055B345 /* SumBetweenTwoIntegers.swift in Sources */,
+				ACFB47DD2887EF770077E950 /* coordinateSort.swift in Sources */,
 				ACF39EA22861B4DC0055B345 /* openChat.swift in Sources */,
 				ACF39EA82864C5820055B345 /* findPrime.swift in Sources */,
 				ACF39EA62862F6820055B345 /* featureDevelop.swift in Sources */,
