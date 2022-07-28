@@ -62,6 +62,7 @@
 		ACF39EB02869A9EC0055B345 /* wordConversion.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EAF2869A9EC0055B345 /* wordConversion.swift */; };
 		ACF39EB22869A9F90055B345 /* travelRoute.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF39EB12869A9F90055B345 /* travelRoute.swift */; };
 		ACFB47DD2887EF770077E950 /* coordinateSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFB47DC2887EF770077E950 /* coordinateSort.swift */; };
+		ACFB48032890FE9F0077E950 /* makeTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFB48022890FE9F0077E950 /* makeTriangle.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -133,6 +134,7 @@
 		ACF39EAF2869A9EC0055B345 /* wordConversion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = wordConversion.swift; sourceTree = "<group>"; };
 		ACF39EB12869A9F90055B345 /* travelRoute.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = travelRoute.swift; sourceTree = "<group>"; };
 		ACFB47DC2887EF770077E950 /* coordinateSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coordinateSort.swift; sourceTree = "<group>"; };
+		ACFB48022890FE9F0077E950 /* makeTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeTriangle.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -174,6 +176,7 @@
 				ACDCF0B8286DE00B0014B67E /* 5주차 */,
 				ACB936012877858500F6EA13 /* 6주차 */,
 				ACB9367A28817C1300F6EA13 /* 7주차 */,
+				ACFB48012890FE890077E950 /* 8주차 */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -337,6 +340,15 @@
 			path = "4주차";
 			sourceTree = "<group>";
 		};
+		ACFB48012890FE890077E950 /* 8주차 */ = {
+			isa = PBXGroup;
+			children = (
+				ACFB48022890FE9F0077E950 /* makeTriangle.swift */,
+			);
+			name = "8주차";
+			path = "8주차";
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -444,6 +456,7 @@
 				ACDCF0BA286DE0300014B67E /* NumberVillage.swift in Sources */,
 				ACB9367C28817C3300F6EA13 /* upStair.swift in Sources */,
 				ACDCF0B7286D7FE20014B67E /* valueInParentheses.swift in Sources */,
+				ACFB48032890FE9F0077E950 /* makeTriangle.swift in Sources */,
 				ACB936032877859500F6EA13 /* hanoi.swift in Sources */,
 				AC5332EA2849FA0C000EAF88 /* main.swift in Sources */,
 				ACDCF094286A0E430014B67E /* laboratory.swift in Sources */,
