@@ -64,6 +64,7 @@
 		ACFB47DD2887EF770077E950 /* coordinateSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFB47DC2887EF770077E950 /* coordinateSort.swift */; };
 		ACFB48032890FE9F0077E950 /* makeTriangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFB48022890FE9F0077E950 /* makeTriangle.swift */; };
 		ACFB48062893E5F10077E950 /* addNegativePositive.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFB48052893E5F10077E950 /* addNegativePositive.swift */; };
+		ACFB48082897C3250077E950 /* biggestNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACFB48072897C3250077E950 /* biggestNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -137,6 +138,7 @@
 		ACFB47DC2887EF770077E950 /* coordinateSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coordinateSort.swift; sourceTree = "<group>"; };
 		ACFB48022890FE9F0077E950 /* makeTriangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = makeTriangle.swift; sourceTree = "<group>"; };
 		ACFB48052893E5F10077E950 /* addNegativePositive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = addNegativePositive.swift; sourceTree = "<group>"; };
+		ACFB48072897C3250077E950 /* biggestNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = biggestNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -356,6 +358,7 @@
 			isa = PBXGroup;
 			children = (
 				ACFB48052893E5F10077E950 /* addNegativePositive.swift */,
+				ACFB48072897C3250077E950 /* biggestNumber.swift */,
 			);
 			name = "9주차";
 			path = "9주차";
@@ -467,6 +470,7 @@
 				ACB9366D287C3BEF00F6EA13 /* organicCabbage.swift in Sources */,
 				ACDCF0BA286DE0300014B67E /* NumberVillage.swift in Sources */,
 				ACB9367C28817C3300F6EA13 /* upStair.swift in Sources */,
+				ACFB48082897C3250077E950 /* biggestNumber.swift in Sources */,
 				ACDCF0B7286D7FE20014B67E /* valueInParentheses.swift in Sources */,
 				ACFB48062893E5F10077E950 /* addNegativePositive.swift in Sources */,
 				ACFB48032890FE9F0077E950 /* makeTriangle.swift in Sources */,

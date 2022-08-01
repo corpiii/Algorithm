@@ -179,4 +179,7 @@ final class FileIO {
 
 
 //coordinateSort()
-makeTriangle()
+//makeTriangle()
+
+biggestNumber([3, 30, 34, 5, 9])
+
